@@ -13,3 +13,8 @@ Update change log
 
 Fixed issue #2 (Routing issue for http://routes.local:4711/last)
 Update change log
+
+#Version 1.0.2
+
+Added First.php into the controller with and index method to grab the first element in the array 
+and then populate the page.
