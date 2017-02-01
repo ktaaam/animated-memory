@@ -3,3 +3,13 @@
 Team members:   Jimmy Wang(Captain), Alex Bai(First mate) & Kevin Tam(Second Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+
+#Version 1.0.1
+
+Fixed issue #2 (Routing issue for http://routes.local:4711/last)
+Update change log
+
+#Version 1.0.2
+
+Added First.php into the controller with and index method to grab the first element in the array 
+and then populate the page.
