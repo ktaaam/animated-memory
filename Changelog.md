@@ -7,3 +7,4 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 #Version 1.0.1
 
 Fixed issue #2 (Routing issue for http://routes.local:4711/last)
+Update change log
