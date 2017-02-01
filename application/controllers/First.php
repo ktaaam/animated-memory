@@ -19,7 +19,11 @@ class First extends Application
 		$record = $this->quotes->get(1);
 		$this->data = array_merge($this->data, $record);
 		$this->data['pagebody'] ='justone';
-		$this->render();
-		
+		$this->render();		
+	}
+
+	public function zzz()
+	{
+		$this->index();	
 	}
 }
