@@ -20,5 +20,6 @@ class First extends Application
 		$this->data = array_merge($this->data, $record);
 		$this->data['pagebody'] ='justone';
 		$this->render();
+		
 	}
 }
