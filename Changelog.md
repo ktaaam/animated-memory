@@ -4,6 +4,12 @@ Team members:   Jimmy Wang(Captain), Alex Bai(First mate) & Kevin Tam(Second Mat
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+#Version 1.0.6
+
+Fixed issue #6 (Routing issue for /dunno)
+added image in /data
+Update change log
+
 #Version 1.0.5
 
 Fixed issue #5 (Routing issue for /show/3)
