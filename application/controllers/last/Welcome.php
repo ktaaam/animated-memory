@@ -24,6 +24,7 @@ class Welcome extends Application
 		$this->data = array_merge($this->data, $source);
 		$this->data['pagebody'] = 'justone';
 		$this->render();
+		
 	}
 
 }
