@@ -22,7 +22,7 @@ class Welcome extends Application
 		$source = $this->quotes->get(6);
 
 		$this->data = array_merge($this->data, $source);
-$this->data['pagebody'] = 'justone';
+		$this->data['pagebody'] = 'justone';
 		$this->render();
 	}
 
