@@ -55,6 +55,7 @@ $route['translate_uri_dashes'] = FALSE;
 $route['lock/(:any)/(:any)'] = 'Welcome/shucks';
 $route['sleep'] = 'First/zzz';
 $route['show/(:num)'] = 'First/gimme/$1';
+$route['([a-z]{4})/bingo'] = 'bingo';
 $route['dunno'] = function() {
     $source = '../data/surprise.jpg'; // an image you provide, outside of "oublic"!
     // set the mime type for that image (jpeg, png, etc)
