@@ -4,6 +4,26 @@ Team members:   Jimmy Wang(Captain), Alex Bai(First mate) & Kevin Tam(Second Mat
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
+#Version 1.1.0
+Fixed isse #10
+Implemented random() function within Welcome.php and updated the routes.php file for the 404 overidden route.
+updated change log
+
+#Version 1.0.9
+Fixed isse #7
+Updates routes.php with regular expression requirement and created Bingo.php file
+updated change log
+
+#Version 1.0.7
+Fixed isse #8
+added Wise.php and updated routes
+updated change log
+
+#Version 1.0.8
+Fixed isse #9
+renamed Welcome.php and updated routes
+updated change log
+
 #Version 1.0.7
 Fixed isse #8
 added Wise.php and updated routes
