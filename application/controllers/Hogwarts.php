@@ -3,6 +3,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Hogwarts extends Application
+
 {
 
 	function __construct()
